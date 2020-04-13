@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    background-color: rgb(186, 189, 194);
     font-family: 'Open Sans', sans-serif;
 
 }
@@ -8,7 +8,7 @@ body{
     height: 550px;
 
     margin: 10px auto;
-    background-color: rgba(135, 37, 200, 0.4);
+    background-color: rgba(186, 189, 194, 0.4);
 }
 #calculator{
     width: 320px;
@@ -29,7 +29,7 @@ body{
     margin: 0 20px;
     padding-top: 20px;
     font-size: 15px;
-    color: #919191;
+    color:rgb(186, 100, 209);
 }
 #output{
     text-align: right;
